@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="true">
+  <TopNode>[0-1002]C:\Users\student\Desktop\ConsoleApplication2\ClassLibrary1\bin\Debug\ClassLibrary1.dll</TopNode>
+  <SelectedNode>[0-1002]C:\Users\student\Desktop\ConsoleApplication2\ClassLibrary1\bin\Debug\ClassLibrary1.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1002]C:\Users\student\Desktop\ConsoleApplication2\ClassLibrary1\bin\Debug\ClassLibrary1.dll" Expanded="true" />
+    <Node UniqueName="[0-1003]ClassLibrary1" Expanded="true" />
+    <Node UniqueName="[0-1000]ClassLibrary1.TestMainProgram" Expanded="true" />
+  </Nodes>
+</VisualState>
